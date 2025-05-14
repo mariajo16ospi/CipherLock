@@ -1,4 +1,4 @@
-package com.example.usbauth;
+package com.example.cipherlock;
 
 import android.app.Service;
 import android.content.Intent;
